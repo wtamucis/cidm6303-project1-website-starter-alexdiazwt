@@ -1,4 +1,122 @@
-.golden-img {
-    max-width: 50%;
+.title {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #007AC1;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+    background-color: #002D62;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #002D62;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+li {
+    text-align: center;
+    color: #ffffff;
+    list-style: none;
+}
+
+p {
+    text-align: left;
+    line-height: 1.6;
+}
+
+form {
+    width: 200px;
+    margin: auto;
+    background-color: #002D62;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #F05133;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #002D62;
+}
+
+.red-highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.ThunderArena {
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    height: 400px;
+    padding: 10px 10px 10px 10px;
+}
+
+.ThunderLogov1 {
+    display: block;
+    margin: 20px auto;
+    width: 400px;
     height: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+.ThunderLogov2 {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+.SuperSonicsLogo {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: auto;
+}
+
+.NBA_2012_Final {
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    height: auto;
+}
+
+.NBA_2025_Final {
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    height: auto;
+}
+
+.Thunder_Fans {
+    display: block;
+    margin: 20px auto;
+    width: 700px;
+    height: auto;
+    padding: 30px 30px 30px 30px;
 }
